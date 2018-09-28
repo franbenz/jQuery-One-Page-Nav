@@ -1,0 +1,19 @@
+{
+  "name": "@davist11/jquery-one-page-nav",
+  "version": "3.0.0",
+  "description": "jQuery-One-Page-Nav",
+  "main": "jquery.nav.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franbenz/jQuery-One-Page-Nav.git"
+  },
+  "author": "davist11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franbenz/jQuery-One-Page-Nav/issues"
+  },
+  "homepage": "https://github.com/franbenz/jQuery-One-Page-Nav#readme"
+}
